@@ -1,7 +1,7 @@
 ## Computer Science Club
 
 # What is this CS-Club?
-This is a club for computer science and programming competitions' participants. Participants will compete in online programming contests such as usaco, codeforces etc.
+This is a club for computer science and programming competitions' participants. Participants will compete in online programming contests such as [usaco](https://www.usaco.org), [codeforces](http://codeforces.com) etc.
 
 ### Markdown
 
