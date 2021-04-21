@@ -1,8 +1,7 @@
-## Computer Contest Club
+## Computer Science Club
 
-You can use the [editor on GitHub](https://github.com/LeonHa-23/cs-club.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What is this CS-Club?
+This is a club for computer science and programming competitions' participants. Participants will compete in online programming contests such as usaco, codeforces etc.
 
 ### Markdown
 
