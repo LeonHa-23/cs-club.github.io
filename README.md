@@ -11,6 +11,7 @@ This is a club for computer science programming competitionsParticipants will co
 
 [Click here for more details about USACO](https://usaco.guide/#:~:text=USACO%20stands%20for%20the%20USA%20Computing%20Olympiad.%20Check,No%2C%20USACO%20does%20not%20have%20an%20official%20syllabus.)
 
+![USACOimage](file:///Users/yushengha/Desktop/My%20Folder/untitled%20folder/Work/python/Competitive%20programming/Website/usaco.png)
 
 # What is CodeForces?
 "Codeforces is a project joining people interested in and taking part in programming contests. On one hand, Codeforces is a social network dedicated to programming and programming contests. On the other hand, it is a platform where contests are held regularly, the participant's skills are reflected by their rating and the former contests can be used to prepare." - CodeForces
