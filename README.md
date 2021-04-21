@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Computer Contest Club
 
 You can use the [editor on GitHub](https://github.com/LeonHa-23/cs-club.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
