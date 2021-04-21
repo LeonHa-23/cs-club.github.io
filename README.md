@@ -1,12 +1,10 @@
 # CS-Club
 
-```markdown
+
 # What is this CS-Club?
-This is a club for computer science programming competitions
-Participants will compete in online programming contests such as:
-[USACO](http://www.usaco.org), 
-[codeforces](http://codeforces.com) etc.
-```
+This is a club for computer science programming competitionsParticipants will compete in online programming contests such as:[USACO](http://www.usaco.org)
+ and [codeforces](http://codeforces.com) etc.
+
 
 # What is USACO?
 "The United States of America Computer Olympiad (USACO) is a computer programming competition for students in the United States. The USACO offers four competitions per year for students at four difficulties: Bronze, Silver, Gold, and Platinum. Students advance through each level by performing well in their current division and the finalists in the Platinum division are invited to represent the United States at the International Olympiad in Informatics." - springlighteducation
