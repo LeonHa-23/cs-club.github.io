@@ -2,7 +2,7 @@
 
 ```markdown
 # What is this CS-Club?
-This is a club for computer science and programming competitions' participants. 
+This is a club for computer science programming competitions
 Participants will compete in online programming contests such as:
 [USACO](http://www.usaco.org), 
 [codeforces](http://codeforces.com) etc.
