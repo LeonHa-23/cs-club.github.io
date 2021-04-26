@@ -4,6 +4,11 @@
 # What is this CS-Club?
 This is a club for computer science programming competitionsParticipants will compete in online programming contests such as:[USACO](http://www.usaco.org)
  and [CodeForces](http://codeforces.com) etc.
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 # What is USACO?
@@ -13,10 +18,24 @@ This is a club for computer science programming competitionsParticipants will co
 
 ![USACOimage](https://github.com/[LeonHa-23]/[reponame]/blob/[main]/usaco.png?raw=true)
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 # What is CodeForces?
 "Codeforces is a project joining people interested in and taking part in programming contests. On one hand, Codeforces is a social network dedicated to programming and programming contests. On the other hand, it is a platform where contests are held regularly, the participant's skills are reflected by their rating and the former contests can be used to prepare." - CodeForces
 
 [Click here for more details about CodeForces](https://codeforces.com/help#:~:text=Codeforces%20is%20a%20project%20joining%20people%20interested%20in,the%20former%20contests%20can%20be%20used%20to%20prepare.)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ### Markdown
 
