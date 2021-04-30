@@ -37,7 +37,7 @@ This is a club for computer science programming competitionsParticipants will co
 
 # Jason is fat
 steps:
- video: https://youtube.com/embed/h4ZUvzUT3Bo
+ video: <iframe width="560" height="315" src="https://www.youtube.com/embed/h4ZUvzUT3Bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
