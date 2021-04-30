@@ -36,8 +36,8 @@ This is a club for computer science programming competitionsParticipants will co
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Jason is fat
-link: '{{ repoUrl }}/issue/1'
-video: https://www.youtube.com/embed/h4ZUvzUT3Bo
+steps:
+ video: https://www.youtube.com/embed/h4ZUvzUT3Bo
 
 
 
