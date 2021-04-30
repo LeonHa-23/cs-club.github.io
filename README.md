@@ -35,6 +35,9 @@ This is a club for computer science programming competitionsParticipants will co
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Jason is fat
+Jason's video:
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=h4ZUvzUT3Bo&t=21s)
 
 
 ### Markdown
