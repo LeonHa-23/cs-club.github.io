@@ -37,7 +37,7 @@ This is a club for computer science programming competitionsParticipants will co
 
 # Jason is fat
 Jason's videoeeee:
-video:https://www.youtube.com/embed/h4ZUvzUT3Bo
+video:[JasonImage] https://www.youtube.com/embed/h4ZUvzUT3Bo
 
 
 
