@@ -16,7 +16,7 @@ This is a club for computer science programming competitionsParticipants will co
 
 [Click here for more details about USACO](https://usaco.guide/#:~:text=USACO%20stands%20for%20the%20USA%20Computing%20Olympiad.%20Check,No%2C%20USACO%20does%20not%20have%20an%20official%20syllabus.)
 
-![USACOimage](https://github.com/[LeonHa-23]/[reponame]/blob/[main]/usaco.png?raw=true)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
