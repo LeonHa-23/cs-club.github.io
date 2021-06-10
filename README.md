@@ -5,6 +5,7 @@
 This is a club for computer science programming competitionsParticipants will compete in online programming contests such as:[USACO](http://www.usaco.org)
  and [CodeForces](http://codeforces.com) etc.
  
+ ![Image of CS Club Logo](https://raw.githubusercontent.com/LeonHa-23/CS-Club/LeonHa-23-patch-1/Screen%20Shot%202021-06-10%20at%209.36.11%20AM.png)
  
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,8 +17,8 @@ This is a club for computer science programming competitionsParticipants will co
 
 [Click here for more details about USACO](https://usaco.guide/#:~:text=USACO%20stands%20for%20the%20USA%20Computing%20Olympiad.%20Check,No%2C%20USACO%20does%20not%20have%20an%20official%20syllabus.)
 
-![Image of CS Club Logo](https://raw.githubusercontent.com/LeonHa-23/CS-Club/LeonHa-23-patch-1/Screen%20Shot%202021-06-10%20at%209.36.11%20AM.png)
 
+ ![Image of USACO Logo](https://raw.githubusercontent.com/LeonHa-23/CS-Club/LeonHa-23-patch-1/Screen%20Shot%202021-06-10%20at%209.36.11%20AM.png)
 
 
 
