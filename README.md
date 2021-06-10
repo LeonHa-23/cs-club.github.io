@@ -18,7 +18,7 @@ This is a club for computer science programming competitionsParticipants will co
 [Click here for more details about USACO](https://usaco.guide/#:~:text=USACO%20stands%20for%20the%20USA%20Computing%20Olympiad.%20Check,No%2C%20USACO%20does%20not%20have%20an%20official%20syllabus.)
 
 
- ![Image of USACO Logo](https://raw.githubusercontent.com/LeonHa-23/CS-Club/LeonHa-23-patch-1/Screen%20Shot%202021-06-10%20at%209.36.11%20AM.png)
+ ![Image of USACO Logo](https://raw.githubusercontent.com/LeonHa-23/CS-Club/LeonHa-23-patch-1/usaco.png)
 
 
 
@@ -32,7 +32,7 @@ This is a club for computer science programming competitionsParticipants will co
 
 [Click here for more details about CodeForces](https://codeforces.com/help#:~:text=Codeforces%20is%20a%20project%20joining%20people%20interested%20in,the%20former%20contests%20can%20be%20used%20to%20prepare.)
 
-
+![Image of Codeforces Logo](https://raw.githubusercontent.com/LeonHa-23/CS-Club/LeonHa-23-patch-1/Rbbe1f236877070d8f4ca52a606af5dd9.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
