@@ -1,8 +1,8 @@
-# CS-Club
+# NIS CS-Club
 
 
-# What is this CS-Club?
-This is a club for computer science programming competitionsParticipants will compete in online programming contests such as:[USACO](http://www.usaco.org)
+# What is this NIS CS-Club?
+This is a club for computer science programming competitions hosted by students in Nanjing international school, Participants will compete in online programming contests such as:[USACO](http://www.usaco.org)
  and [CodeForces](http://codeforces.com) etc.
  
  ![Image of CS Club Logo](https://raw.githubusercontent.com/LeonHa-23/CS-Club/LeonHa-23-patch-1/Screen%20Shot%202021-06-10%20at%209.36.11%20AM.png)
